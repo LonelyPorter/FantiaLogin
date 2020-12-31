@@ -1,5 +1,8 @@
 # FantiaLogin
-This is an automated login script for getting PT in Fantia
+This is an automated login script for getting PT in Fantia  
+
+## Reference
+> https://selenium-python.readthedocs.io/index.html   
 
 ## What you need
 * Python (3.6+)
@@ -16,8 +19,8 @@ pip install selenium
 ```
 
 ### Webdriver
-You will need to download the corresponding webdriver for your browser
-Some popular browser and their driver supported by selenium are listed below:
+You will need to download the corresponding webdriver for your browser.  
+Some popular browser and their driver supported by selenium are listed below: 
 * **Chrome**  https://sites.google.com/a/chromium.org/chromedriver/downloads
 * **Edge**    https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 * **Firefox** https://github.com/mozilla/geckodriver/releases
