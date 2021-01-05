@@ -26,6 +26,7 @@ for i in range (len(creators)):
     creators = driver.find_elements_by_class_name("item-creator")  # reload because they got removed from the DOM (?)
     c = creators[i]
     c.click()
+    time.sleep(1) # wait for the button to show up on the right bottom corner
     # Login started
     driver.find_element_by_class_name("fan-fixed-nav").click() # right bottom
     time.sleep(2)
