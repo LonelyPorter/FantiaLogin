@@ -1,5 +1,7 @@
 # FantiaLogin
-This is an automated login script for getting PT in Fantia  
+This is an automated login script for getting PT in Fantia
+
+2021.5.30  The script is currently not working
 
 ## Reference
 > https://selenium-python.readthedocs.io/index.html   
